@@ -1,4 +1,5 @@
-### Olá, sou o Fernando 👋
+### Olá, sou o Fernando👋
+ Estou estudando Java!
 
 <!--
 **Fernando12080/Fernando12080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
